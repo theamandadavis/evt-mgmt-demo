@@ -53,5 +53,5 @@ Not just because it was required... but it avoids chaotic state management libra
 
 ## Login
 
-- Sign up from the login page ... sorry ran out of time to seed the user credentials 😭
+- Sign up from the login page `/auth/login` ... sorry ran out of time to seed the user credentials 😭
 - Once created login using the credentials specified and voila!
